@@ -12,3 +12,9 @@ c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
 Sí, puede actualizarlo.
 d- ¿Los datos que tenia en mi repositorio, editados por mi, se pierden si quiero actualizar el fork?
 Si, se pierden.
+
+e- git remote add upstream "link de beta"
+   git fetch upstream
+   git checkout main
+   git rebase upstream/main
+   
