@@ -1,0 +1,9 @@
+INTEGRAMTES:
+Agustin Gaitan
+Juan Cruz Reynoso
+Lucas Silva
+
+a-¿Como actualizo mi repositorio, al estado que esté el repo que hice FORK?
+Lo actualize con los comandos "git remote add upstream "Link de repo", git fetch upstream, git checkout main y git rebase usptream/main (para actualizar mi repo)
+b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
+Si puede actualizarlo
